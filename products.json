@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Nutrigold Collagen +",
+        "image": "./images/colagen+.png",
+        "price": 49.99
+    },
+    {
+        "id": 2,
+        "title": "My vitamins, Plant - Collagen",
+        "image": "./images/plant-collagen.png",
+        "price": 49.99
+    },
+    {
+        "id": 3,
+        "title": "Neocell Super Collagen",
+        "image": "./images/super-collagen.png",
+        "price": 49.99
+    }
+]
